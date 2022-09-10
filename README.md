@@ -2,8 +2,6 @@
 
 # `Personal Try-and-Learn Cloudstream3 Plugin Repo [WIP]`
 
-Template for a [Cloudstream3](https://github.com/recloudstream) plugin repo
-
 **⚠️ Make sure you check "Include all branches" when using this template**
 
  
