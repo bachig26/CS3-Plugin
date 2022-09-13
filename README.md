@@ -1,5 +1,3 @@
-**⚠️ This is currently under development, don't use it yet if you're not comfortable with constantly merging new changes**
-
 # `Personal Try-and-Learn Cloudstream3 Plugin Repo [WIP]`
 
 **⚠️ Make sure you check "Include all branches" when using this template**
